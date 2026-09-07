@@ -74,8 +74,4 @@ Requires Node 18+. Uses Vite + React + Tailwind (the interactive prototype
 file follows the same Tailwind conventions, so either can be dropped into
 an existing Vite/CRA/Next app with minimal changes).
 
-## Submitting
 
-1. Push this folder to a GitHub repo.
-2. Submit the repo link via the form in the assignment email
-   (deadline: **8 September 2026**).
