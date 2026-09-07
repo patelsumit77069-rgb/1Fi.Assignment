@@ -73,5 +73,7 @@ npm run dev
 Requires Node 18+. Uses Vite + React + Tailwind (the interactive prototype
 file follows the same Tailwind conventions, so either can be dropped into
 an existing Vite/CRA/Next app with minimal changes).
-
+## Deploy link
+```https://1-fi-assignment-nu.vercel.app/
+```
 
